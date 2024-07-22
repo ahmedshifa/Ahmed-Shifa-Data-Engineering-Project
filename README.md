@@ -1,6 +1,10 @@
 # Data Engineering Pipeline Overview
 What is This Project?
-This project creates a streamlined process for managing data. It takes information from a CSV file and organizes it into a database, making it easier to analyze and use.
+This project is designed to manage and process movie data efficiently. It involves:
+
+Extracting Data: It reads the data from the file to analyze and process it.
+Visualizing Data: Provides a visual representation of the data to help understand trends and patterns.
+Storing Data: Saves the data into a database for easy access and further analysis.
 
 # Key Features
 Automated Data Handling: Converts data from a simple CSV file into a structured database format.
